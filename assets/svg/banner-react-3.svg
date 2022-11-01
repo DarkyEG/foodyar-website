@@ -1,0 +1,17 @@
+<svg width="586" height="390" viewBox="0 0 586 390" fill="none" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <mask id="mask0_0_1" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="586" height="390">
+        <path
+            d="M0.418088 91.843C-3.57847 42.3618 35.4998 0 85.1422 0H500.858C550.5 0 589.578 42.3619 585.582 91.8431L565.213 344.025C563.116 369.994 541.429 390 515.376 390H70.6244C44.571 390 22.8841 369.994 20.7867 344.025L0.418088 91.843Z"
+            fill="#C4C4C4" />
+    </mask>
+    <g mask="url(#mask0_0_1)">
+        <rect x="-26" y="-11" width="619" height="413" fill="url(#pattern0)" />
+    </g>
+    <defs>
+        <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+            <use xlink:href="#image0_0_1" transform="translate(-0.0003428) scale(0.000244308 0.000366166)" />
+        </pattern>
+        <image id="image0_0_1" width="4096" height="2731" xlink:href="/assets/img/img-1.png" />
+    </defs>
+</svg>
